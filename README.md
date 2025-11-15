@@ -72,15 +72,6 @@ Add the referenced image files under `assets/images/<tribe>/` and make sure `pub
 - Consider adding more sample stories (15–30) and small PNG or WebP thumbnails for a friendly experience.
 - Optional extra packages: `flutter_svg` for vector patterns, `cached_network_image` is not needed (offline), `riverpod` if you prefer a different state solution.
 
-## Want me to continue?
-I can automatically do any of the following next (pick one):
-
-- A) Add placeholder images into `assets/images/common/` and per-tribe folders so the app shows visuals everywhere.
-- B) Expand `stories.json` with more mock stories and thumbnails.
-- C) Implement full Tribe detail pages, random myth card, and nicer Story cards.
-- D) Polish UI: logo, fonts, theme polish, and hero transitions.
-- E) Add unit tests for `LocalDataService.search` and small widget tests.
-
 Tell me which option (A–E) you want next and I will implement it.
 
 ---

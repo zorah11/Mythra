@@ -1,0 +1,44 @@
+[
+  {
+    "id": "kintu-nambi",
+    "title": "Kintu and Nambi",
+    "tribe": "buganda",
+    "tribeName": "Buganda",
+    "shortDescription": "How the first people came to live on Earth and their lessons.",
+    "fullText": "Long ago, when the world was still young and silent, the earth had only one man: Kintu. He lived alone with his beloved cow, which provided him milk and comfort. He built his shelter, tilled the soil, and walked the vast lands in solitude. There were no children laughing, no families growing, no other voices except the wind and the sound of his cow’s hooves on the red soil. Yet Kintu was strong, patient, and grateful for the life before him.\n\nFar above the quiet earth, in the highest realm of the sky, lived the great god Ggulu with his large household. Among his many daughters was Nambi, a kind-hearted and curious maiden whose laughter brightened the heavens. One day, while looking down from the sky, Nambi noticed Kintu walking with calm dignity beside his cow. She felt drawn to him — not out of pity, but admiration. His life was simple yet full of quiet strength. She longed to meet him.\n\nSome say Nambi convinced her sister to travel with her; others say she descended alone. But all agree that she came down to earth and met Kintu. They spoke, shared stories, and slowly attachment grew into love. Nambi returned to the sky and asked her father, Ggulu, for permission to marry the lonely man she had found.\n\nGgulu did not grant such requests lightly. To marry a daughter of the heavens, a man had to be proven wise, patient, and pure in heart. So he summoned Kintu to the sky and prepared a set of trials. The tests varied from teller to teller, but their meaning remained the same: Kintu had to show honesty, strength, and humility.\n\nIn the first trial, Ggulu hid Kintu’s cow among his own enormous herd. Kintu stood calmly, closed his eyes, and listened. Out of all the noises, he recognized the soft, familiar bellow of his cow. He walked straight to it without hesitation. Ggulu nodded, impressed.\n\nIn another trial, Ggulu placed several pots before Kintu — all sealed, all identical. One contained millet, another beans, another sand. Ggulu told him to choose the food humans needed most. Kintu knelt, feeling the weight of each pot carefully, and chose the millet, the seed of life. Again Ggulu nodded.\n\nSome versions say Kintu was asked to drink from a calabash filled with strange mixtures or to lift stones that no man could lift. Whatever the tests were, the spirit remained constant: Kintu met them all with calmness, integrity, and cleverness.\n\nSatisfied at last, Ggulu blessed the marriage. He gave Kintu and Nambi gifts they would need on earth: a hen, millet seeds, and a cow whose milk would nourish their future family. But he also gave them a clear warning. Ggulu said, \"Go straight to earth and do not return for anything you may forget. For if you return, trouble will follow you, and it will be a trouble no one can undo.\"\n\nKintu and Nambi agreed. They descended from the sky carrying Ggulu’s gifts. On earth they planted seeds, built a home, and lived in peace. But as they settled, Nambi suddenly remembered — she had forgotten the food for the hen. Trusting she could return quickly and unnoticed, she went back to the sky, although Ggulu’s warning was still fresh in her mind.\n\nThat single decision changed the fate of humankind.\n\nWhen Nambi reached the sky, she found her brother Walumbe — whose very name means sickness, suffering, and death. Walumbe asked where she was going, and when she tried to leave without explanation, he became suspicious. When he learned she had married and was setting up a household on earth, he insisted on going with her, claiming it was his right as her brother.\n\nNambi tried to stop him — she knew Ggulu’s warning was about Walumbe — but Walumbe followed her down to the earth. From that moment, the world would never again be free of sorrow.\n\nAt first, Walumbe lived peacefully with Kintu and Nambi. But soon he demanded one of their children to serve him. Kintu refused, saying a father must protect his children. Walumbe grew angry. In his anger he afflicted the first child with sickness until the child died. Then another died. Then livestock began to die. Walumbe’s presence poisoned the earth with death.\n\nTerrified, Kintu and Nambi returned to Ggulu to beg for help. Ggulu sent Kayikuzi, the brave son of heaven, to capture Walumbe. Kayikuzi chased Walumbe, forcing him into the earth. He commanded the people to keep digging and hammering so Walumbe could not escape. For days they tried, their hands blistered, their voices shouting encouragement. But eventually, tired and discouraged, the people rested.\n\nIn the silence, Walumbe slipped deeper into the ground and escaped. When he returned, death returned with him — permanent, unstoppable.\n\nKayikuzi admitted defeat. \"As long as people fail to keep watch, Walumbe will always remain among them,\" he said. And so death became part of human life forever.\n\nKintu and Nambi continued to grow their family and are remembered as the ancestors of the Baganda people. Their story teaches obedience to wisdom, the cost of a single misstep, and the truth that joy and sorrow walk together in the path of human existence. It explains why death exists and why it cannot be undone, for Walumbe remains hidden in the earth, emerging again and again as sickness, misfortune, and the end of life itself.\n\nThus the tale of Kintu and Nambi is more than a myth — it is the foundation of identity, morality, and memory in Buganda, passed down from storyteller to storyteller across generations.",
+    "image": "assets/images/buganda/kintu_nambi_cover.png",
+    "thumbnail": "assets/images/buganda/kintu_nambi_thumb.png",
+    "keywords": ["creation", "first people", "sky", "family"],
+    "ageRange": "7-14",
+    "readingTimeMins": 8,
+    "order": 1
+  },
+  {
+    "id": "okuru-the-giant",
+    "title": "Okuru the Giant",
+    "tribe": "acholi",
+    "tribeName": "Acholi",
+    "shortDescription": "Okuru’s big heart and the village that learned to be brave.",
+    "fullText": "Okuru was a giant who lived near the river. At first people feared him, but a small child showed him kindness. Okuru helped the village lift heavy loads and taught them that strength is best used to protect others.",
+    "image": "assets/images/acholi/okuru_cover.jpg",
+    "thumbnail": "assets/images/acholi/okuru_thumb.jpg",
+    "keywords": ["giant", "river", "bravery", "kindness"],
+    "ageRange": "7-14",
+    "readingTimeMins": 5,
+    "order": 1
+  },
+  {
+    "id": "labongo-gipir",
+    "title": "Labongo and Gipir",
+    "tribe": "lugbara",
+    "tribeName": "Lugbara",
+    "shortDescription": "A tale of friendship between a clever boy and a talking bird.",
+    "fullText": "Labongo loved exploring the forest. One day he found Gipir, a talking bird who needed help. Together they solved riddles and learned the importance of listening to elders and nature.",
+    "image": "assets/images/lugbara/labongo_gipir_cover.jpg",
+    "thumbnail": "assets/images/lugbara/labongo_gipir_thumb.jpg",
+    "keywords": ["friendship", "bird", "forest", "riddles"],
+    "ageRange": "7-12",
+    "readingTimeMins": 6,
+    "order": 1
+  }
+]

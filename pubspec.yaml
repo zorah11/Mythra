@@ -1,0 +1,24 @@
+name: ugmythra
+description: "Mythra — Uganda Myths for Children. A fully offline, kid-friendly Flutter app scaffold to read and explore Ugandan traditional stories by tribe. No login, all assets bundled locally."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+  shared_preferences: ^2.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/stories/stories.json
+    - assets/images/buganda/
